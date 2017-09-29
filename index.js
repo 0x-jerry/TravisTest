@@ -1,1 +1,5 @@
-console.log("hello world");
+function index(bool) {
+    return bool;
+}
+
+module.exports = index;
