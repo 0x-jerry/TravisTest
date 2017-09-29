@@ -77,4 +77,3 @@ npm install coveralls --save-dev #安装 coveralls
 本篇文章的项目的 GitHub 地址 ：[Travis Test](https://github.com/cwxyz007/TravisTest)
 
 到这里还不赶紧去 GitHub 上配置一波～。
-如果本篇文章对你有帮助，为什么不点一波喜欢在走呢～
