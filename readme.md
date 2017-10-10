@@ -1,6 +1,6 @@
 # test
 
-[![Build Status](https://travis-ci.org/cwxyz007/test.svg?branch=master)](https://travis-ci.org/cwxyz007/test) [![Coverage Status](https://coveralls.io/repos/github/cwxyz007/test/badge.svg?branch=master)](https://coveralls.io/github/cwxyz007/test?branch=master)
+[![Build Status](https://travis-ci.org/cwxyz007/TravisTest.svg?branch=master)](https://travis-ci.org/cwxyz007/TravisTest) [![Coverage Status](https://coveralls.io/repos/github/cwxyz007/test/badge.svg?branch=master)](https://coveralls.io/github/cwxyz007/test?branch=master)
 
 这篇文章的目标就是在 GitHub 上显示如下图标。当然不是简单的显示两张图片，而是显示当前项目的一些状态。
 
@@ -45,7 +45,7 @@ node_js:
 
 在 [node-coveralls](https://github.com/nickmerwin/node-coveralls) 里面有很多钟方式，我选择 [Istanbul](https://github.com/gotwarlost/istanbul) + [mocha](https://github.com/mochajs/mocha)。
 
-那么，第一步，当然是安装 [Istanbul](https://github.com/gotwarlost/istanbul) + [mocha](https://github.com/mochajs/mocha) 啦，当然还要安装 coveralls[https://coveralls.io/]
+那么，第一步，当然是安装 [Istanbul](https://github.com/gotwarlost/istanbul) + [mocha](https://github.com/mochajs/mocha) 啦，当然还要安装 [coveralls](https://coveralls.io/)
 
 ```
 npm install mocha --save-dev #安装 mohca
